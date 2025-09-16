@@ -21,8 +21,13 @@ A composable ToggleCard() that displays a card with tappable text. The text togg
 - `ui.theme`: Contains app theme and styling.
 
 ## Usage
-Open the app to see your name and BU email displayed.  
-Click the button to see the greeting message change.
+Open the app to see a card with the message:  
+"Tap to see a fun fact!"  
+
+Tap the card to toggle the message and reveal a fun fact:  
+"Kotlin was created by JetBrains!"  
+
+Tap again to switch back to the original message.  
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
